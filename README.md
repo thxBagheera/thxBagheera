@@ -4,9 +4,7 @@
 
 - Je m'appelle Prince Button, le code c'est sprituel, ésotérique & infini.
 
-🗣️ Je suis également FabManager depuis plus de 8 ans . C'est une passion que j'occupe également chez moi en possédant divers machines de fablabs , tel que les imprimantes 3D , imprimante résine ou CNC. Egalement formatrice en Arduino pour la GEN pendant 4 ans.
-
-
+🗣️ Je suis également ingé-son depuis plus de 8 ans .
 ### ⚡ Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
